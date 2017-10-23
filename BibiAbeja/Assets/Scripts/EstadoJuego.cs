@@ -27,6 +27,8 @@ public class EstadoJuego : MonoBehaviour {
 
     void Awake () {
 
+        //Screen.SetResolution(1920, 1080, true);
+
         if (estadoJuego == null)
         {
             estadoJuego = this;

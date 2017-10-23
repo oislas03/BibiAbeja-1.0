@@ -117,16 +117,16 @@
       <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
     </Reference>
     <Reference Include="LeapCSharp.NET3.5">
-      <HintPath>C:/Users/IoTITSON/Desktop/BibiAbeja - Copia donde ya se arregló todo el rollo de la resolución y line renderer/BibiAbeja/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+      <HintPath>C:/Users/IoTITSON/Documents/GitHub/BibiAbeja/BibiAbeja/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Data.Sqlite">
-      <HintPath>C:/Users/IoTITSON/Desktop/BibiAbeja - Copia donde ya se arregló todo el rollo de la resolución y line renderer/BibiAbeja/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
+      <HintPath>C:/Users/IoTITSON/Documents/GitHub/BibiAbeja/BibiAbeja/Assets/Plugins/Mono.Data.Sqlite.dll</HintPath>
     </Reference>
     <Reference Include="System.Data">
-      <HintPath>C:/Users/IoTITSON/Desktop/BibiAbeja - Copia donde ya se arregló todo el rollo de la resolución y line renderer/BibiAbeja/Assets/Plugins/System.Data.dll</HintPath>
+      <HintPath>C:/Users/IoTITSON/Documents/GitHub/BibiAbeja/BibiAbeja/Assets/Plugins/System.Data.dll</HintPath>
     </Reference>
     <Reference Include="libpxcclr.unity">
-      <HintPath>C:/Users/IoTITSON/Desktop/BibiAbeja - Copia donde ya se arregló todo el rollo de la resolución y line renderer/BibiAbeja/Assets/Plugins.Managed/libpxcclr.unity.dll</HintPath>
+      <HintPath>C:/Users/IoTITSON/Documents/GitHub/BibiAbeja/BibiAbeja/Assets/Plugins.Managed/libpxcclr.unity.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Graphs">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
